@@ -21,8 +21,8 @@ main {
 }
 
 audio {
-	min-width: 150px;
 	width: 80%;
+	min-width: 150px;
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
