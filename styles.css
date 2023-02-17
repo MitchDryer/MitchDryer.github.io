@@ -12,6 +12,7 @@ h1, h2, h3, p {
 }
 
 main {
+	justify-content: center;
 	width: 50%;
 	max-width: 600px;
 	padding: 10px 10px;
